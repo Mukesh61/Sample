@@ -1,0 +1,1 @@
+print("Ishu is frustrated")
